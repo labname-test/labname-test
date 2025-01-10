@@ -1,28 +1,23 @@
 ---
-layout: profiles
-permalink: /people/
+layout: page
 title: people
-description: members of the lab or group
+permalink: /people/
+description:
 nav: true
-nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+nav_order: 1
 ---
+
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+    <h3>Person 1</h3>
+    <img src="prof_pic.jpg" alt="Person 1" style="width: 100%; height: auto; border-radius: 50%;">
+    <p>More details about Person 1</p>
+  </div>
+
+  <div style="flex: 1; padding: 10px; border: 1px solid #ddd; border-radius: 8px;">
+    <h3>Person 2</h3>
+    <img src="prof_pic.jpg" alt="Person 2" style="width: 100%; height: auto; border-radius: 50%;">
+    <p>More details about Person 2</p>
+  </div>
+</div>
+
