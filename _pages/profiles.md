@@ -9,7 +9,7 @@ nav_order: 2
 
 <style>
   :root {
-    --card-height: 300px; /* 控制每个卡片的高度 */
+    --card-height: 140px; /* 控制每个卡片的高度 */
   }
 
   .person-card {
