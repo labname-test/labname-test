@@ -1,14 +1,8 @@
-github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
-
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - LCNS-SJTU/mechanism-of-hierarchical-time-constants
+  - LCNS-SJTU/SJTU-11th-CNS-Winter-School
+  - LCNS-SJTU/striatum-beta-oscillation
+  - LCNS-SJTU/maximum-entropy-brain-network
+  - LCNS-SJTU/SJTU-10th-CNS-Winter-School
+  - NeoNeuron/simple-hpc-guide
+  - NeoNeuron/Linux-guide-for-researcher
